@@ -868,7 +868,7 @@
     "message": "卡拉凯普"
   },
   "DescriptionAdapterKarakeep":  {
-    "message": "使用开源自托管 Karakeep 应用程序同步书签。此选项不能使用端到端加密，也不支持在同步时保持书签顺序。"
+    "message": "用开源自托管的 Karakeep 应用同步书签。它只能同步 http 书签。此选项无法使用端到端加密，不支持在同步中保留书签顺序。"
   },
   "LabelApiKey":  {
     "message": "API 密钥"
